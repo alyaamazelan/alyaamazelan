@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alyaa 👋
 
-<!--
-**alyaamazelan/alyaamazelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a commercial product owner and aspiring data scientist 
+specialising in logistics intelligence and cargo operations.
 
-Here are some ideas to get you started:
+I build automation tools and data products that turn 
+raw operations data into revenue decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚢 Current Project
+**Teleport Intelligence Dashboard**  
+Cargo shortfall prediction · Revenue leakage detection · Route tonnage forecasting
+
+## 🛠️ Tools I'm Learning
+Python · Pandas · NumPy · Scikit-learn · Matplotlib · Google Colab
+
+## 📫 Building toward
+Head of Product @ a data-driven logistics company
